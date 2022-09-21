@@ -1,0 +1,30 @@
+Fast Typing - keybr.com
+Resources - https://www.appbrewery.co/p/web-development-course-resources/
+Documentation - https://devdocs.io/ , W3school , MDN
+Live Code - https://codepen.io/
+Atom emmet cheatsheet - docs.emmet.io/cheat-sheet
+Report an issue - https://forms.gle/DNFNS8KgFdXtPvyY9
+Crop circular image - crop-circle.imageonline.co
+to see Older version of a website - Wayback Machine
+To get good color combinations - colorhunt.co
+Discord Channel - https://discord.gg/f7BBFBn
+favicon - favicon.cc
+color combination - colorhunt.co
+Web Safe FONT - www.cssfontstack.com
+ICON - flaticon.com
+GIFs - giphy.com
+CSS Button - https://cssbuttoncreator.com/
+learn/Practice HTML & CSS - https://www.frontendmentor.io/
+Use Bootstrap in an Online Editor - https://www.codeply.com/
+Bootstrap Documentation - https://getbootstrap.com/docs/4.5/getting-started/introduction/
+Principles of Writing Consistent, Idiomatic JavaScript - https://github.com/rwaldron/idiomatic.js
+
+HTML My CV Website - https://ganesh-347.github.io/CV/
+CSS My Site - https://ganesh-347.github.io/CSS-My-Site/
+TinDog - https://ganesh-347.github.io/Tingdog/
+Dice Game - https://ganesh-347.github.io/dicegame/
+Drum Kit - https://ganesh-347.github.io/drumkit/
+Simon Game - https://ganesh-347.github.io/simongame/
+Newsletter-Signup - https://secure-plains-35346.herokuapp.com/
+https://us18.admin.mailchimp.com/lists/members/#p:1-s:25-sa:last_update_time-so:false
+
